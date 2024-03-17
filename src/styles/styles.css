@@ -51,7 +51,7 @@ body {
 }
 
 .answerDiv {
-    animation: revealAnswer 5s;
+    animation: revealAnswer 8s;
     font-size: 30px;
 }
 
